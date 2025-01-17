@@ -1,6 +1,0 @@
-{
-  "workbench.reduceMotion": "on",
-  "diffEditor.hideUnchangedRegions.contextLineCount": 3,
-  "search.searchEditor.defaultNumberOfContextLines": 1,
-  "files.autoGuessEncoding": true
-}
